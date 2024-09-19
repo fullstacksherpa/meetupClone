@@ -58,6 +58,7 @@ export default function Profile() {
     username: string;
     website: string;
     avatar_url: string;
+    full_name: string;
   }) {
     try {
       setLoading(true);

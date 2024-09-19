@@ -1,6 +1,7 @@
 import '../global.css';
 
 import { Stack } from 'expo-router';
+
 import AuthProvider from '~/contexts/AuthProvider';
 
 export const unstable_settings = {
